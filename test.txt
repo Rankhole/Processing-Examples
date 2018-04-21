@@ -10,4 +10,8 @@ Happy little clouds!
 
 This was written on my local Computer via vim and git.
 
+<<<<<<< HEAD
 STUFF FOR NEWBRANCH
+=======
+I will now try to push to another branch.
+>>>>>>> master
